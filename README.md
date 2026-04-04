@@ -10,8 +10,10 @@ Based on lamali292's [Example Mod](https://github.com/lamali292/sts2_example_mod
 - If playing as The Regent in multiplayer, you will now start each run with a copy of Hammer Time
 - The Hammer Time Power has been upgraded to stack, so if you have 2 stacks, when you Forge 8, your allies Forge 8 * 2 stacks = 16
 
----
+## Installation
+For simple installation, find the compiled mod on Nexus Mods at: https://www.nexusmods.com/slaythespire2/mods/358
 
+---
 
 ## Development Setup
 
